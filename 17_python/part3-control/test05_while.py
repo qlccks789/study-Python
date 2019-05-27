@@ -5,11 +5,11 @@ print("index : ", index)  # index :  1
 
 # 1을 증가하기..
 index += 1
-print(index)
+print(index)    # 2
 
 while index <= 9:
     index += 1
-    print(index)
+    print(index)    # 3, 4, 5, 6, 7, 8, 9
 
 prompt = """
 1. 등록
