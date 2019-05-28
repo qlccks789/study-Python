@@ -13,12 +13,12 @@ class Dog:
     """클래스의 설명입니다."""
     print("Doc")  # Doc
 
-    def bark(self):
+    def bark(self):     # == this
         pass
 
 
 # ['__class__', ... 'bark']
-# print(dir(Dog))  # bark 함수 포함된 결과 나옴...
+print(dir(Dog))  # bark 함수 포함된 결과 나옴...
 
 # 클래스에 설정한 주석문 확인
-# print(Dog.__doc__)   # "클래스의 설명입니다." 이 출력된다.
+print(Dog.__doc__)   # "클래스의 설명입니다." 이 출력된다.

@@ -11,7 +11,7 @@ def login(ip, port, **other):
 
 result = login("192.168.0.110", 8000)
 print(result)  # IP : 192.168.0.110, Port : 8000,
-result = login("192.168.0.110", 8000, id="abc", passwd="1234")
+result = login("192.168.0.110", 8000, id="abc", passwd="1234")      # **other 자리에 key,value 로 들어가게된다.
 print(result)    # IP : 192.168.0.110, Port : 8000, id : abc, passwd : 1234,
 
 # 아래는 에러임... 반드시 이름과 값의 쌍으로 값을 넘겨야 한다.

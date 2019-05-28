@@ -7,7 +7,7 @@ class Insa:
 my1 = Insa()
 my2 = Insa()
 
-my1.msg = "Hello Python!!"    # my1의 인스턴스 공간에 msg 변수 추가됨..
+my1.msg = "Hello Python!!"    # my1의 인스턴스 공간에 동적으로 msg 변수 추가됨..
 # print(Insa.msg)   # Error 발생
 print(my1.msg)  # Hello Python!! 출력됨...
 # print(my2.msg)  # Error 발생

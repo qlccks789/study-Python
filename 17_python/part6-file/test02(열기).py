@@ -14,7 +14,7 @@ f.read() - 파일 전체 내용 읽기
 파이썬은 간단하다.
 python is simple.
 """
-print(f.read())  # 전체내용 읽기
+# print(f.read())  # 전체내용 읽기
 
 
 """
@@ -29,6 +29,8 @@ f.readline() 은 한줄읽는다(줄넘김 문자 포함됨)
 '''
 # readlines() : 전체 내용을 읽어서 리스트 반환
 
+
+'''
 f_list = f.readlines()
 print(type(f_list))    # <class 'list'>
 print(f_list)          # ['파이썬은 간단하다.\n', 'python is simple.\n']
@@ -39,4 +41,3 @@ for data in f_list:
 
 
 f.close()
-'''

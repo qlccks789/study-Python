@@ -13,6 +13,6 @@ def global_num(a):
     return a + num
 
 val1 = local_num(100)
-val2 = global_num(100)
+val2 = global_num(100)  # local 변수에 num 이 없기때문에 global 영역에서 num 을 찾아 대입해준다.
 print(val1)  # 200
 print(val2)  # 110
