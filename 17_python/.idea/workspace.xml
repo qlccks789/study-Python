@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88964211-722a-4eeb-a47b-84e438201833" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/part4-function/test06(미정키워드).py" beforeDir="false" afterPath="$PROJECT_DIR$/part4-function/test06(미정키워드).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part4-function/test09(전역,지역변수2).py" beforeDir="false" afterPath="$PROJECT_DIR$/part4-function/test09(전역,지역변수2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part4-function/test10(전역,지역변수3).py" beforeDir="false" afterPath="$PROJECT_DIR$/part4-function/test10(전역,지역변수3).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5-class/test01(정의).py" beforeDir="false" afterPath="$PROJECT_DIR$/part5-class/test01(정의).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5-class/test02(멤버이해하기1).py" beforeDir="false" afterPath="$PROJECT_DIR$/part5-class/test02(멤버이해하기1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5-class/test04(생성자).py" beforeDir="false" afterPath="$PROJECT_DIR$/part5-class/test04(생성자).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part6-file/test02(열기).py" beforeDir="false" afterPath="$PROJECT_DIR$/part6-file/test02(열기).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_basic/test00.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_basic/test00.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,77 +14,84 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part6-file/test01(쓰기).py">
+        <entry file="file://$PROJECT_DIR$/part8-database/test01(연결 및 등록).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part6-file/test02(열기).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part6-file/test03(객체쓰기).py">
+        <entry file="file://$PROJECT_DIR$/part9-network/test01(json파일).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part6-file/test04(객체읽기).py">
+        <entry file="file://$PROJECT_DIR$/part8-database/test02(데이터 조회).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="437">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part6-file/test05(바이너리).py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part6-file/test06(with~as).py">
+        <entry file="file://$PROJECT_DIR$/part9-network/test02(오픈API).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/part9-network/test03(beautifulsoup4).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="747">
+              <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/part9-network/test04(크롤링1).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/part6-file/test07(연습-복사).py">
+        <entry file="file://$PROJECT_DIR$/part9-network/test05(크롤링2).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="190">
+              <caret line="10" column="69" lean-forward="true" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part6-file/test01_write2.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part6-file/test02_object.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/part6-file/test01_write.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/part9-network/json.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -112,6 +114,13 @@
         <option value="$PROJECT_DIR$/part5-class/test05(errormethod).py" />
         <option value="$PROJECT_DIR$/part5-class/test07(상속정의).py" />
         <option value="$PROJECT_DIR$/part6-file/test02(열기).py" />
+        <option value="$PROJECT_DIR$/part7-error/test06(에러강제발생).py" />
+        <option value="$PROJECT_DIR$/01_basic/test00.py" />
+        <option value="$PROJECT_DIR$/part8-database/test01(연결 및 등록).py" />
+        <option value="$PROJECT_DIR$/part8-database/test02(데이터 조회).py" />
+        <option value="$PROJECT_DIR$/part9-network/test01(json파일).py" />
+        <option value="$PROJECT_DIR$/part9-network/test02(오픈API).py" />
+        <option value="$PROJECT_DIR$/part9-network/test03(beautifulsoup4).py" />
       </list>
     </option>
   </component>
@@ -127,7 +136,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="120" />
-    <option name="y" value="-23" />
+    <option name="y" value="-25" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -148,7 +157,17 @@
             <path>
               <item name="17_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="17_python" type="462c0819:PsiDirectoryNode" />
-              <item name="part6-file" type="462c0819:PsiDirectoryNode" />
+              <item name="01_basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="17_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17_python" type="462c0819:PsiDirectoryNode" />
+              <item name="part8-database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="17_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="17_python" type="462c0819:PsiDirectoryNode" />
+              <item name="part9-network" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -172,8 +191,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test06(with~as)">
-    <configuration name="test02(열기)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test04(크롤링1)">
+    <configuration name="test01(json파일)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="17_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part6-file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part9-network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part6-file/test02(열기).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part9-network/test01(json파일).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test03(객체쓰기)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test02(데이터 조회)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="17_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part6-file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part8-database" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part6-file/test03(객체쓰기).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part8-database/test02(데이터 조회).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test04(객체읽기)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test02(오픈API)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="17_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part6-file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part9-network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part6-file/test04(객체읽기).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part9-network/test02(오픈API).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test06(with~as)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test03(beautifulsoup4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="17_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part6-file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part9-network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part6-file/test06(with~as).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part9-network/test03(beautifulsoup4).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test07(연습-복사)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test04(크롤링1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="17_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,11 +284,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part6-file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part9-network" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part6-file/test07(연습-복사).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part9-network/test04(크롤링1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test06(with~as)" />
-        <item itemvalue="Python.test07(연습-복사)" />
-        <item itemvalue="Python.test04(객체읽기)" />
-        <item itemvalue="Python.test03(객체쓰기)" />
-        <item itemvalue="Python.test02(열기)" />
+        <item itemvalue="Python.test04(크롤링1)" />
+        <item itemvalue="Python.test03(beautifulsoup4)" />
+        <item itemvalue="Python.test02(오픈API)" />
+        <item itemvalue="Python.test01(json파일)" />
+        <item itemvalue="Python.test02(데이터 조회)" />
       </list>
     </recent_temporary>
   </component>
@@ -304,18 +323,18 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17833553" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14861295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.194051" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -480,54 +499,171 @@
     <entry file="file://$PROJECT_DIR$/part6-file/test01(쓰기).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/part6-file/test01_write.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/part6-file/test02(열기).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
+        <state relative-caret-position="798">
           <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/part6-file/test02_object.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/part6-file/test03(객체쓰기).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/part6-file/test04(객체읽기).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/part6-file/test05(바이너리).py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/part6-file/test06(with~as).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/part6-file/test01_write2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/part6-file/test06(with~as).py">
+    <entry file="file://$PROJECT_DIR$/part6-file/test02_object.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part6-file/test01_write.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part6-file/test07(연습-복사).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part7-error/test01(에러발생).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part7-error/test03(특정에러처리).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part7-error/test04(에러변수담기).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part7-error/test05(else적용).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part7-error/test06(에러강제발생).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part7-error/test07(finally적용-수업뺌).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/part6-file/test07(연습-복사).py">
+    <entry file="file://$PROJECT_DIR$/part7-error/test02(except).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_basic/test00.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part9-network/json.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part8-database/test01(연결 및 등록).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part8-database/test02(데이터 조회).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part9-network/test01(json파일).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part9-network/test02(오픈API).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part9-network/test03(beautifulsoup4).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="41" column="15" selection-start-line="41" selection-start-column="15" selection-end-line="41" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part9-network/test04(크롤링1).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part9-network/test05(크롤링2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="69" lean-forward="true" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
